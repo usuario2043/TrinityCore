@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.41, for Linux (x86_64) 64
+-- MySQL dump 10.13  Distrib 8.0.41, for Linux (x86_64) 641
 --
 -- Host: localhost    Database: auth
 -- ------------------------------------------------------
