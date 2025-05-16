@@ -1,6 +1,7 @@
 sql/**
 /sql*
 sql/*
+*.sql
 build*/
 .directory
 .mailmap
